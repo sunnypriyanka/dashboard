@@ -1,3 +1,12 @@
+# Dashboard
+
+### Developed by ` Priyanka ` with React
+
+# screenshot : 
+
+![dashboard](https://user-images.githubusercontent.com/88229034/133721631-14837279-7f70-4566-aae4-e776de4ed6d3.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
